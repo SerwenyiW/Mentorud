@@ -1,0 +1,10 @@
+name: SerwMentorud
+version: 1.2
+description: 1.8.9 MC Mentorud
+author: Serwenyi
+main: hu.serwenyi.mentorud.SerwSaveRod
+api-version: 1.8.9
+commands:
+  mentorud:
+    description: Mentorud
+    permission: serwenyi.mentorud
